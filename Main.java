@@ -6,6 +6,8 @@ public class Main {
 		System.out.println("Bonjour");
 		for(i=0,i<10,i++)
 			System.out.println("maman");
+		age=32;
+		System.out.println("j'ai"+age+"ans");
 
 	}
 
