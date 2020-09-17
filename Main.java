@@ -5,7 +5,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("Bonjour");
 		for(i=0,i<10,i++)
-			System.out.println("maman");
+			System.out.println("papa");
 
 	}
 
