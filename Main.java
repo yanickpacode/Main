@@ -5,7 +5,13 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("Bonjour");
 		for(i=0,i<10,i++)
+<<<<<<< HEAD
 			System.out.println("papa");
+=======
+			System.out.println("maman");
+		age=32;
+		System.out.println("j'ai"+age+"ans");
+>>>>>>> variable
 
 	}
 
